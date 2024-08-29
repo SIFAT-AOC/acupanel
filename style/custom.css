@@ -38,8 +38,9 @@ header h1 {
 .card-acua {
 }
 .card-acua img {
-  height: 50%;
+  aspect-ratio: 12/8;
   width: 100%;
+  object-fit: cover;
 }
 .card-acua h3 {
   font-size: 25px;
@@ -99,6 +100,8 @@ header h1 {
 .feature-media-2 {
 }
 .feature-media-2 img {
+  aspect-ratio: 12/8;
+  object-fit: cover;
 }
 .icon-title svg {
   height: 35px;

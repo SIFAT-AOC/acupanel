@@ -126,11 +126,20 @@ header h1 {
 
 .faq-box-1 {
   background-color: #f7f7f7;
+  border: 1px solid #00000014;
+  border-radius: 10px;
 }
 .faq-box-1 h2 {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 600;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #0000001f;
 }
 .faq-box-1 p {
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  line-height: 29px;
 }
 .faq-box-1 a {
   display: inline-block;
@@ -157,8 +166,8 @@ header h1 {
 .accordion-item .accordion-button:focus {
   box-shadow: 0 !important;
   border: none;
-  background-color: #0000002e !important;
-  color: #000;
+  background-color: #000000 !important;
+  color: #f5efef;
 }
 .accordion-item:last-of-type .accordion-collapse {
   border: 2px solid #4b484800;

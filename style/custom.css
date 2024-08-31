@@ -25,6 +25,9 @@ header {
   font-weight: 800;
   left: 0;
 }
+.btn-coffe:hover {
+  color: #fff;
+}
 header h1 {
   font-size: 48px;
   font-weight: 800;

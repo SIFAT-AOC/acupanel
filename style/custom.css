@@ -14,6 +14,17 @@ header {
   background-color: #7b3f00;
   color: #fff;
 }
+.btn-coffe {
+  color: #fff;
+  padding: 10px 15px;
+  background-color: #623403;
+  border: 2px solid #b0a7a787;
+  font-size: 16px;
+  text-decoration: none;
+  position: absolute;
+  font-weight: 800;
+  left: 0;
+}
 header h1 {
   font-size: 48px;
   font-weight: 800;
@@ -207,5 +218,10 @@ header h1 {
   }
   .logo-media img {
     max-width: 80%;
+  }
+  .btn-coffe {
+    padding: 6px 10px;
+    font-size: 14px;
+    left: 5px;
   }
 }

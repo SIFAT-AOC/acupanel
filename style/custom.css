@@ -38,8 +38,8 @@ header {
 }
 .calender-flex p {
   margin: 10px 0;
-  line-height: 20px;
-  font-size: 16px;
+  line-height: 28px;
+  font-size: 24px;
   font-weight: 400;
 }
 .right-calender-flex .yellow-btn {
@@ -274,5 +274,11 @@ header h1 {
     padding: 6px 10px;
     font-size: 14px;
     left: 5px;
+  }
+  .calender-flex p {
+    margin: 10px 0;
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 400;
   }
 }

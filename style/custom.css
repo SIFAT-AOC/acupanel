@@ -14,6 +14,53 @@ header {
   background-color: #7b3f00;
   color: #fff;
 }
+.calender-flex {
+}
+.calender-flex .chocolate-btn {
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 15px;
+  background-color: #723e3e;
+  display: block;
+  margin: 10px 0 0 0;
+  border-radius: 26px;
+}
+.calender-flex p {
+  margin: 10px 0;
+  line-height: 26px;
+  font-size: 24px;
+  font-weight: 400;
+}
+.calender-flex p span {
+  font-weight: 600;
+}
+.right-calender-flex {
+}
+.calender-flex p {
+  margin: 10px 0;
+  line-height: 20px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.right-calender-flex .yellow-btn {
+  color: #000;
+  text-decoration: none;
+  padding: 6px 15px;
+  background-color: #fe9b1a;
+  display: block;
+  margin: 10px 0 0 0;
+  font-weight: 600;
+  border-radius: 7px;
+  text-transform: uppercase;
+}
+.right-calender-flex p {
+  margin: 0;
+  font-size: 16px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.right-calender-flex p span {
+}
 .btn-coffe {
   color: #fff;
   padding: 10px 15px;
@@ -218,10 +265,10 @@ header h1 {
     padding: 0;
   }
   header h1 {
-    font-size: 35px;
+    font-size: 30px;
   }
   .logo-media img {
-    max-width: 80%;
+    max-width: 60%;
   }
   .btn-coffe {
     padding: 6px 10px;

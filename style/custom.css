@@ -14,6 +14,32 @@ header {
   background-color: #7b3f00;
   color: #fff;
 }
+
+.top-header {
+  background-color: #291811;
+  padding: 15px;
+  color: #fff;
+}
+.top-header-content {
+}
+.top-header-content .fst-span {
+  font-weight: 600;
+  font-size: 20px;
+  margin-right: 8px;
+}
+.top-header-content .scnd-span {
+  font-size: 18px;
+  margin-left: 3px;
+}
+.top-header-content img {
+  width: 35%;
+}
+.top-header-content h3 {
+  font-size: 22px;
+  margin-bottom: 0;
+  margin-left: 16px;
+  font-weight: 700;
+}
 .calender-flex {
 }
 .calender-flex .chocolate-btn {
@@ -280,5 +306,14 @@ header h1 {
     line-height: 20px;
     font-size: 16px;
     font-weight: 400;
+  }
+  .top-header-content h3 {
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-left: 14px;
+    text-align: center;
+  }
+  .top-header-content .scnd-span {
+    font-size: 14px;
   }
 }
